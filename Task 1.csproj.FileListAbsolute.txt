@@ -1,0 +1,8 @@
+D:\GitHub\Repositories\Lab03\Task 1\bin\Debug\Task 1.exe.config
+D:\GitHub\Repositories\Lab03\Task 1\bin\Debug\Task 1.exe
+D:\GitHub\Repositories\Lab03\Task 1\bin\Debug\Task 1.pdb
+D:\GitHub\Repositories\Lab03\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Lab03\Task 1\obj\Debug\Task 1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Repositories\Lab03\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Lab03\Task 1\obj\Debug\Task 1.exe
+D:\GitHub\Repositories\Lab03\Task 1\obj\Debug\Task 1.pdb
